@@ -178,6 +178,7 @@ export default class extends Controller {
 }
 ----
 
+
 When a default is used, the expanded form of `{ type, default }` is used. This form can be mixed with the regular form that does not use a default.
 
 == Naming Conventions
