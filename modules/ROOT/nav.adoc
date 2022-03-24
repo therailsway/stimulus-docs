@@ -1,4 +1,4 @@
-文档
+* 文档
 ** xref:00_the_origin_of_stimulus.adoc[缘起]
 ** xref:01_introduction.adoc[概述]
 ** xref:02_hello_stimulus.adoc[你好，Stimulus]
