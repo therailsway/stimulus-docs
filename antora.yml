@@ -1,0 +1,8 @@
+name: stimulus
+title: Stimulus 文档
+version: ~
+start_page: ROOT:00_the_origin_of_stimulus.adoc.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/reference/nav.adoc
+
